@@ -1,3 +1,4 @@
+import Footer from "@/components/footer";
 import Header from "@/components/header";
 
 export default function Jakarta() {
@@ -6,7 +7,8 @@ export default function Jakarta() {
       <Header/>
       Ini Component Jakarta
       <hr/>
-      footer
+      <Footer/>
+
     </div>
   )
 }
